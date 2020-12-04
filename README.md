@@ -1,1 +1,1 @@
-## Eventor-v1.1 Multivendor Platform 
+## EVENTOR Multi-Vendor e-Commerce Platform v1.1
